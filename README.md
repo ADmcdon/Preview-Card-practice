@@ -16,7 +16,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -30,14 +30,7 @@ Users should be able to:
 ### Screenshot
 
 ![](![![Screenshot 2022-06-27 at 11-30-42 Frontend Mentor Product preview card component](https://user-images.githubusercontent.com/107668054/176011424-99980036-ba54-4389-8736-f77daebdfbe2.png)])
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+section.**
 
 ### Links
 
@@ -63,8 +56,8 @@ I will re-do this challenge again from the applying what I've learned and try to
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - This helped me understand what flexboxes are and how to use them
-- [Example resource 2](https://github.com/Amjad12-10) - I used their solution to the challenge as my template
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - This helped me understand what flexboxes are and how to use them
+- [Amjad12](https://github.com/Amjad12-10) - I used their solution to the challenge as my template
 
 ## Author
 
