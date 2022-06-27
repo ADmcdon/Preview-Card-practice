@@ -73,4 +73,4 @@ I will re-do this challenge again from the applying what I've learned and try to
 
 
 ## Acknowledgments
-I would like to give Amjad all the credit for his solution, helped me to understand how to format side by side elements without using a grid, and how to make a responsive layout
+I would like to give Amjad all the credit for their solution, helped me to understand how to format side by side elements without using a grid, and how to make a responsive layout
